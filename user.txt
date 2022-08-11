@@ -1,0 +1,6 @@
+10 hi
+20 hello
+80 
+40 
+this is a sample file
+he got 25 marks
